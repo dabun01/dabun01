@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello!%20"/>
 </p>
 
+<div align="center">
+  <img src="https://profile-counter.dabun01.workers.dev" alt="Profile visits" />
+</div>
+
+
 # Connect with me
 
 <p align=center>
